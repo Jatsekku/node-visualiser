@@ -2,5 +2,8 @@
   "name": "wirelessnodevisualiser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "p5": "^1.11.2"
+  }
 }
